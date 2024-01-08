@@ -3,6 +3,7 @@ from .models import Product, Contact, Order, OrderUpdate
 from math import ceil
 import json
 
+
 # Create your views here.
 from django.http import HttpResponse
 
